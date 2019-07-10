@@ -1,4 +1,4 @@
 # first_repo
-はじめてのリポジトリ
+はじめてのリポジトリpert2
 
 tesuto ^p^
